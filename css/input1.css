@@ -1,0 +1,17 @@
+#input{
+  border: 5px solid darkblue;
+   padding-top: 10px;
+    padding-right: 50px;
+    padding-bottom: 20px;
+    padding-left: 80px;
+ background-color: lightblue;
+ width: 600px;
+}
+ button{
+ 	height:50px;
+ 	width: 100px;
+    
+ }
+body{
+	background-color: #E6E6FA;
+}
