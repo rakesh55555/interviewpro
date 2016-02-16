@@ -5,7 +5,9 @@
 <link href="css/jasny-bootstrap.min.css" rel='stylesheet' type='text/css' />
 </head>
 <body style="background-color:black;" >
-
+<?php 
+require("connect.php");
+ ?>
 
 <TABLE   width="100%" height="100%"  cellpadding="0" cellspacing="0" >
 
