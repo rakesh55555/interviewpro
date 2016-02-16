@@ -15,9 +15,7 @@
 <tr vallign="top"><td>
 <center><img src="img/welcome.png" height="50px" width="200px"></center>
 <p class="text-info"><b><font color="white" >Hire the best developers,
-  <?php 
-require("connect.php");
- ?>
+
 
 Don't waste time interviewing developers who aren't suitable for the job. Find out quickly how well someone can suitable for your requirement . With Interview Pro, you set your own Requirement and watch which candidates are suitable for your company. 
 
