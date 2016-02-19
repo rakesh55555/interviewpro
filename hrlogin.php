@@ -74,12 +74,14 @@ $sql= "SELECT * FROM hr_account WHERE email='".$a."'";
   }
   else{
      echo "<script>alert('Worng details...');</script>";
+      echo "<script>window.location='';</script>";
      exit;             
   }
 
   }
   else{ 
   echo "<script>alert('Worng details...');</script>";
+   echo "<script>window.location='';</script>";
   exit; 
       } 
   } 
